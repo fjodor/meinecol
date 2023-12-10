@@ -12,3 +12,6 @@ LazyData: true
 RoxygenNote: 7.2.3
 URL: https://github.com/fjodor/meinecol
 BugReports: https://github.com/fjodor/meinecol/issues
+Depends: 
+    ggplot2,
+    R (>= 4.1)
