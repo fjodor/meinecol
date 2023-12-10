@@ -15,3 +15,5 @@ BugReports: https://github.com/fjodor/meinecol/issues
 Depends: 
     ggplot2,
     R (>= 4.1)
+Suggests: 
+    colorspace
